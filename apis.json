@@ -1,0 +1,52 @@
+{
+    "name": "Dropproxy",
+    "description": "Share your files, keep your identity. We hide your Dropbox ID so you can safely share your files with the ease from Dropbox while remaining safe.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/dropproxy-logo.png",
+    "tags": [
+        "anonymous",
+        "api provider",
+        "files",
+        "have api",
+        "profile",
+        "proxy"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dropproxy\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Dropproxy",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/dropproxy-logo.png",
+            "humanURL": "http:\/\/dropproxy.com\/api-doc",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dropproxy-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/dropproxy.com\/api-doc"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/martians"
+        },
+        {
+            "type": "Email",
+            "url": "dev@dropproxy.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/dropproxy"
+        }
+    ]
+}
